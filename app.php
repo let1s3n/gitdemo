@@ -10,3 +10,7 @@ use Hackspace\Suma;
 $suma = new Suma(3,4);
 echo $suma->ejecutar();
 echo "\n";
+
+$suma = new Suma(5,8);
+echo $suma->ejecutar();
+echo "\n";
